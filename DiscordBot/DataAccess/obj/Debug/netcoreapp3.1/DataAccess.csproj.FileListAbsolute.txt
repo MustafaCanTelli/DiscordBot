@@ -1,0 +1,15 @@
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\mstfc\source\repos\DiscordBot\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
