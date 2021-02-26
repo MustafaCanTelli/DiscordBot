@@ -1,0 +1,4 @@
+C:\Users\mstfc\Desktop\Bot\IccBot\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\mstfc\Desktop\Bot\IccBot\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\mstfc\Desktop\Bot\IccBot\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\mstfc\Desktop\Bot\IccBot\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
