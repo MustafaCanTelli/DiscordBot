@@ -1,17 +1,199 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj": {}
+    "C:\\users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mstfc\\Desktop\\IccBot\\DAL\\DAL.csproj": {
+    "C:\\users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\IccBot\\DAL\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\IccBot\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj",
+        "projectName": "IccBot",
+        "projectPath": "C:\\users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\IccBot\\DAL\\obj\\",
+        "outputPath": "C:\\users\\mstfc\\Desktop\\IccBot\\IccBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mstfc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj": {
+                "projectPath": "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj"
+              },
+              "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.0.0-rc2, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.0.0-rc2, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.0.0-rc2, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj",
+        "projectName": "Migrations",
+        "projectPath": "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj",
+        "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
+        "outputPath": "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mstfc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
+        "outputPath": "C:\\users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -70,108 +252,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj",
-        "projectName": "IccBot",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj",
-        "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\IccBot\\IccBot\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\mstfc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.emzi0767.com/api/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\mstfc\\Desktop\\IccBot\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\IccBot\\DAL\\DAL.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "DSharpPlus": {
-              "target": "Package",
-              "version": "[4.0.0-rc2, )"
-            },
-            "DSharpPlus.CommandsNext": {
-              "target": "Package",
-              "version": "[4.0.0-rc2, )"
-            },
-            "DSharpPlus.Interactivity": {
-              "target": "Package",
-              "version": "[4.0.0-rc2, )"
-            },
-            "Microsoft.AspNetCore.Hosting": {
-              "target": "Package",
-              "version": "[2.2.7, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.0, )"
-            },
-            "Microsoft.Extensions.Hosting": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }

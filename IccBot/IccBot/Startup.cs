@@ -13,7 +13,7 @@ namespace IccBot
             services.AddDbContext<IccDbContext>(options =>
             {
                 options.UseSqlServer("Server=.;Database=IccDb;Trusted_Connection=True;MultipleActiveResultSets=true",
-                    x => x.MigrationsAssembly("DAL.Migrations"));
+                    x => x.MigrationsAssembly("Migrations"));
             });
 
             var serviceProvider = services.BuildServiceProvider();
