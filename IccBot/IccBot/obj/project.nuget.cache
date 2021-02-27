@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V6KXk/BcNyzOzYDa4O4q0IEcXHZakGhxAdO113NtUOTKJk+xB+jSDQMhOcffoFhO4mJi9WmI63pLr/kM1ZAOXA==",
+  "dgSpecHash": "Rkhy+j48uLeOo/KuvSbpbHMeXQbeT20KrNMW1wPCVdwFAH0KrzEdmcz3IxMjqKHeccb3xzzCa8K9BWuFjgojbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mstfc\\Desktop\\IccBot\\IccBot\\IccBot.csproj",
+  "projectFilePath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\IccBot\\IccBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mstfc\\.nuget\\packages\\concurrenthashset\\1.1.0\\concurrenthashset.1.1.0.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\dsharpplus\\4.0.0-rc2\\dsharpplus.4.0.0-rc2.nupkg.sha512",
