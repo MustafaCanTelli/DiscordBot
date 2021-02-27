@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2oGEeLC2nD1N9+I/tlVhfUDxx1b0b1ulGCmtjM21cLDynGBBPbSuKT5q8wXaQ4OmaA3VCEBsMaBpscQwJiuUA==",
+  "dgSpecHash": "QOx8tpu37baSLJMmGJBM0N+9FkYpiialynM7EmKAUjTRNiZF4IEXyEGFJAC8KOZ6MxjwO0vKS448fqdmxfMVxw==",
   "success": true,
-  "projectFilePath": "C:\\users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj",
+  "projectFilePath": "C:\\Users\\mstfc\\Desktop\\IccBot\\Migrations\\Migrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
