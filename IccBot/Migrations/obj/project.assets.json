@@ -5730,11 +5730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\Migrations\\Migrations.csproj",
+      "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\Migrations\\Migrations.csproj",
       "projectName": "Migrations",
-      "projectPath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\Migrations\\Migrations.csproj",
+      "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\Migrations\\Migrations.csproj",
       "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\Migrations\\obj\\",
+      "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\Migrations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5756,8 +5756,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\DAL\\DAL.csproj"
+            "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj"
             }
           }
         }

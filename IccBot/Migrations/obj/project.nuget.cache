@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M0p21j0/kAnJY43JgSuoBMpUWONyRTe2AEwvwS+phRg0D+4dMYi6eJIVJ1JYeSrKWkNo3pChcac97vq8jdVKbQ==",
+  "dgSpecHash": "V4Am0GbDWZvWL8yqj+eLCXAKW/9oGn0OkEiQyoSO7hMEm2buMjjITTwE5dGrcJsgupcdRcU6aNl9miuVJloTLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\Migrations\\Migrations.csproj",
+  "projectFilePath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\Migrations\\Migrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

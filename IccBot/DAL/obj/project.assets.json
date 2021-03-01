@@ -1026,11 +1026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mstfc\\Desktop\\DiscordBot-main\\IccBot\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\IccBot\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
