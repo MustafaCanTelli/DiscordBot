@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{AFDC5ED3-3B01-48DD-AEDC-2A9DE8720E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{AFDC5ED3-3B01-48DD-AEDC-2A9DE8720E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{BC38986B-7F92-4EB8-9B0F-5790FEDAB5E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{BC38986B-7F92-4EB8-9B0F-5790FEDAB5E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{8784700A-38EC-4D63-B61C-6B4EDB9F2B3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{8784700A-38EC-4D63-B61C-6B4EDB9F2B3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectBot", "ProjectBot\ProjectBot.csproj", "{6E8FFEE7-8145-41DF-98C4-76D4D308198C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectBot", "ProjectBot\ProjectBot.csproj", "{6E8FFEE7-8145-41DF-98C4-76D4D308198C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,3 +13,15 @@ C:\Users\mstfc\source\repos\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.c
 C:\Users\mstfc\source\repos\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\mstfc\source\repos\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\mstfc\source\repos\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\mstfc\Desktop\Core\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\mstfc\Desktop\Core\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\mstfc\Desktop\Core\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\mstfc\Desktop\Core\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\Desktop\Core\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\mstfc\Desktop\Core\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

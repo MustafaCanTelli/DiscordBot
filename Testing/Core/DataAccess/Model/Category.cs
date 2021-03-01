@@ -10,5 +10,6 @@ namespace DataAccess.Model
         public string CategoryName { get; set; }
         public string Descriptoin { get; set; }
 
+        public List<ProductAndCategory> Items { get; set; } = new List<ProductAndCategory>();
     }
 }

@@ -9,8 +9,8 @@ namespace DataAccess.Model
 {
     public class ProductAndCategory : BaseEntity
     {
-        public int ProductID { get; set; }
-        public int CategoryID { get; set; }
+        public Guid ProductID { get; set; }
+        public Guid CategoryID { get; set; }
 
 
         [ForeignKey("ProductID")]

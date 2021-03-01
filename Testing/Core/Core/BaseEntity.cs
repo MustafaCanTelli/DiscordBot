@@ -1,6 +1,7 @@
 ﻿using Core.Enum;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Core
@@ -15,7 +16,9 @@ namespace Core
         }
 
         public int? MasterID { get; set; }
+        [Column(TypeName = "decimal(20,0)")]
         public ulong DiscordID { get; set; }
+        [Column(TypeName = "decimal(20,0)")]
         public ulong ServerID { get; set; }
         public Status Status { get; set; }
 

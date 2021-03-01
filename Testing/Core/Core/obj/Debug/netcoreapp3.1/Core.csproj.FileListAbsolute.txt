@@ -9,3 +9,11 @@ C:\Users\mstfc\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCo
 C:\Users\mstfc\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\mstfc\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
 C:\Users\mstfc\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
+C:\Users\mstfc\Desktop\Core\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\mstfc\Desktop\Core\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\Desktop\Core\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mstfc\Desktop\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\mstfc\Desktop\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\mstfc\Desktop\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\mstfc\Desktop\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\Desktop\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb

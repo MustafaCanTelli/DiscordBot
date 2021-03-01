@@ -13,3 +13,17 @@ C:\Users\mstfc\source\repos\Core\Service\obj\Debug\netcoreapp3.1\Service.csproj.
 C:\Users\mstfc\source\repos\Core\Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Users\mstfc\source\repos\Core\Service\obj\Debug\netcoreapp3.1\Service.pdb
 C:\Users\mstfc\source\repos\Core\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mstfc\Desktop\Core\Service\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\mstfc\Desktop\Core\Service\obj\Debug\netcoreapp3.1\Service.pdb

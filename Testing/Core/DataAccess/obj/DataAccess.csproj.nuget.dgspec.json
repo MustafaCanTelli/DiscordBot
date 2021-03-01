@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mstfc\\source\\repos\\Core\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mstfc\\source\\repos\\Core\\Core\\Core.csproj": {
+    "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\source\\repos\\Core\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\mstfc\\source\\repos\\Core\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\source\\repos\\Core\\Core\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -45,9 +45,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "EntityFramework": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.4.4, )"
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\mstfc\\source\\repos\\Core\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\source\\repos\\Core\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\mstfc\\source\\repos\\Core\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\source\\repos\\Core\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -98,8 +98,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mstfc\\source\\repos\\Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\source\\repos\\Core\\Core\\Core.csproj"
+              "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj"
               }
             }
           }
@@ -115,6 +115,14 @@
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.0, )"
             },
