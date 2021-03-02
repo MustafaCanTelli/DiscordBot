@@ -6,19 +6,17 @@ using System.Text;
 
 namespace Core
 {
-    public class BaseEntity : IEntity<Guid>
+    public class BaseEntity 
     {
-        public Guid ID { get; set; }
-
         public BaseEntity()
         {
             Status = Status.Active;
         }
 
         public int? MasterID { get; set; }
-        [Column(TypeName = "decimal(20,0)")]
+        //[Column(TypeName = "decimal(18, 2)")]
         public ulong DiscordID { get; set; }
-        [Column(TypeName = "decimal(20,0)")]
+        //[Column(TypeName = "decimal(18, 2)")]
         public ulong ServerID { get; set; }
         public Status Status { get; set; }
 

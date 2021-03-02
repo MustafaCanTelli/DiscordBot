@@ -638,11 +638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\obj\\",
+      "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"

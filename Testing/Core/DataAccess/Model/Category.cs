@@ -7,9 +7,10 @@ namespace DataAccess.Model
 {
     public class Category : BaseEntity
     {
+        public int CategoryId { get; set; }
         public string CategoryName { get; set; }
         public string Descriptoin { get; set; }
 
-        public List<ProductAndCategory> Items { get; set; } = new List<ProductAndCategory>();
+        public List<Product> Products { get; set; }
     }
 }

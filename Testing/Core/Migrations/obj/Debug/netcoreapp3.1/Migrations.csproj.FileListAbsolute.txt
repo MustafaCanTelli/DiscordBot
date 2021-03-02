@@ -1,0 +1,12 @@
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\bin\Debug\netcoreapp3.1\Migrations.deps.json
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\bin\Debug\netcoreapp3.1\Migrations.runtimeconfig.json
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\bin\Debug\netcoreapp3.1\Migrations.runtimeconfig.dev.json
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\bin\Debug\netcoreapp3.1\Migrations.dll
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\bin\Debug\netcoreapp3.1\Migrations.pdb
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.csprojAssemblyReference.cache
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.AssemblyInfoInputs.cache
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.AssemblyInfo.cs
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.dll
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.pdb
+C:\Users\mstfc\Desktop\Testing\Core\Migrations\obj\Debug\netcoreapp3.1\Migrations.genruntimeconfig.cache

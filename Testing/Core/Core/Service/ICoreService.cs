@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Core.Service
 {
    public interface ICoreService<T> where T:BaseEntity
     {
-        void Add(T model);
+        void Add(T model);       
 
         void Add(List<T> models);
 
@@ -22,5 +23,7 @@ namespace Core.Service
         bool Any(Expression<Func<T, bool>> exp);
 
         List<T> GetActive();
+
+       
     }
 }

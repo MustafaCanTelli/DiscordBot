@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj": {
+    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\Core\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -98,8 +98,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Core\\Core\\Core.csproj"
+              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj"
               }
             }
           }
@@ -118,21 +118,21 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.1.1, )"
             },
             "NETStandard.Library": {
               "target": "Package",
               "version": "[2.0.3, )"
-            },
-            "System.ComponentModel.Annotations": {
-              "target": "Package",
-              "version": "[4.7.0, )"
             }
           },
           "imports": [

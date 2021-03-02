@@ -1,5 +1,7 @@
 ﻿using Core;
 using Core.Service;
+using DataAccess.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
@@ -9,6 +11,8 @@ namespace Service
 {
     public class BaseService<T> : ICoreService<T> where T : BaseEntity
     {
+       
+
         public void Add(T model)
         {
             throw new NotImplementedException();

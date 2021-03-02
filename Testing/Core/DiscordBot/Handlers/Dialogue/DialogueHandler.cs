@@ -1,0 +1,70 @@
+﻿using DiscordBot.Handlers.Dialogue.Steps;
+using DSharpPlus;
+using DSharpPlus.Entities;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace DiscordBot.Handlers.Dialogue
+{
+    public class DialogueHandler
+    {
+        private readonly DiscordClient _client;
+        private readonly DiscordChannel _channel;
+        private readonly DiscordUser _user;
+        private IDialogueStep _currentStep;
+
+        public DialogueHandler(DiscordClient client,DiscordChannel channel, DiscordUser user,IDialogueStep staringStep)
+        {
+            _client = client;
+            _channel = channel;
+            _user = user;
+            _currentStep = staringStep;
+        }
+
+        private readonly List<DiscordMessage> messages = new List<DiscordMessage>();
+        
+        public async Task<bool> ProcessDialogue()
+        {
+            while (_currentStep!=null)
+            {
+                _currentStep.OnMessageAdded += (message) => messages.Add(message);
+
+                bool cancelled = await _currentStep.ProcessStep(_client, _channel, _user).ConfigureAwait(false);
+
+                if (cancelled)
+                {
+                    await DeleteMessages().ConfigureAwait(false);
+
+                    var canceledEmbed = new DiscordEmbedBuilder
+                    {
+                        Title = "İşlem İptal Edildi..",
+                        Description = _user.Mention,
+                        Color = DiscordColor.Green
+                    };
+
+                    await _channel.SendMessageAsync(canceledEmbed).ConfigureAwait(false);
+
+                    return false;
+                }
+
+                _currentStep = _currentStep.NextStep;
+            }
+
+            await DeleteMessages().ConfigureAwait(false);
+
+            return true;
+        }
+
+        private async Task DeleteMessages()
+        {
+            if (_channel.IsPrivate)            
+                return;
+            foreach (var message in messages)
+            {
+                await message.DeleteAsync();                
+            }
+
+            
+        }
+    }
+}
