@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\DiscordBot.csproj": {}
+    "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\DiscordBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
+    "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -98,8 +98,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj"
+              "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\DiscordBot.csproj": {
+    "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\DiscordBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
         "projectName": "DiscordBot",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -183,14 +183,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj"
+              "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj"
               },
-              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj"
+              "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj": {
+    "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\obj\\",
+        "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -261,11 +261,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj"
+              "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj"
               },
-              "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj"
               }
             }
           }

@@ -7135,11 +7135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
+      "projectUniqueName": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
       "projectName": "DiscordBot",
-      "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
+      "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\DiscordBot.csproj",
       "packagesPath": "C:\\Users\\mstfc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DiscordBot\\obj\\",
+      "outputPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DiscordBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7161,14 +7161,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj"
+            "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj"
             },
-            "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj"
+            "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj"
             }
           }
         }

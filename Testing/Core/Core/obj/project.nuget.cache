@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSqCBBV6toHc9Dy3pxCxHZKgxdchDsM+jljEM+ZPy+C8YZ/LdSvA5syn46YE6ZbmDhtyoViUvJ6J5zrg5/mEGA==",
+  "dgSpecHash": "oytsgFhKD/31jtcrnyq0RE5OVHhQqV0yq++FGTaccIzdaBx4Fw/f0Wd2SDZm8C7Fn3UxqEAati2fxV+duUs6DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

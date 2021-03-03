@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YwJh2YUHxsIEoJdOw5uq+f1WT6GPtblDEM9ZG5tLwUHIGx1RcAfg3BVe1SbA9zpKF36BQlQ1trnrNfzCy2N3vw==",
+  "dgSpecHash": "CYJivhIqWQ09Ug1nYLZKK1uhzoGr3LLxp0m4KaQp4leFmMsG6AB5tv9j17PC6O53DjSVli1CevGAn8I+jW4LxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mstfc\\Desktop\\Testing\\Core\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mstfc\\.nuget\\packages\\concurrenthashset\\1.1.0\\concurrenthashset.1.1.0.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\dsharpplus\\4.0.0-nightly-00806\\dsharpplus.4.0.0-nightly-00806.nupkg.sha512",
