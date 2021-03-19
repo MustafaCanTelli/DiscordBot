@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "c5Z0m4D+D2qPFVw3qpYirx4uFe8GHhJffz2P3XiOoCXWZBcYlfGX7JnVZxiZRC4BrJAOP4S6S2h+qRFQ/KlxSg==",
+  "dgSpecHash": "APGvtr7c+5k4tIFJ4bbhLgZJOgHtfcsijYmqnI+K3DJZ1TsHbujWq0DF36/CC8Hp4i+Rpa73TutSLI30cvqpbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mstfc\\Documents\\GitHub\\DiscordBot\\Testing\\Core\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.1\\microsoft.entityframeworkcore.design.3.1.1.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.1\\microsoft.entityframeworkcore.relational.3.1.1.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.1\\microsoft.entityframeworkcore.sqlserver.3.1.1.nupkg.sha512",
+    "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.1\\microsoft.entityframeworkcore.tools.3.1.1.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.1\\microsoft.extensions.caching.abstractions.3.1.1.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.1\\microsoft.extensions.caching.memory.3.1.1.nupkg.sha512",
     "C:\\Users\\mstfc\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.1\\microsoft.extensions.configuration.3.1.1.nupkg.sha512",

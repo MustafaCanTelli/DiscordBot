@@ -12,7 +12,7 @@ namespace DiscordBot
 {
     public class Startup
     {
-       
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -22,12 +22,16 @@ namespace DiscordBot
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
+            services.AddControllersWithViews();
+
 
             services.AddDbContext<ProjectDbContext>(options =>
             {
-                options.UseSqlServer("Server=.;Database=YmsProject;Trusted_Connection=True;MultipleActiveResultSets=true");                
+                options.UseSqlServer("Server=.;Database=YmsProject;Trusted_Connection=True;MultipleActiveResultSets=true",
+                    x => x.MigrationsAssembly("DiscordBot"));
             });
+
+            //services.AddRazorPages();
 
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
@@ -46,16 +50,19 @@ namespace DiscordBot
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseStaticFiles();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
+            app.UseEndpoints(x =>
             {
-                endpoints.MapRazorPages();
+                x.MapControllerRoute(
+                    name: "default",
+                    pattern: "{Controller=Home}/{Action=Index}/{id?}"
+                    );
             });
 
         }

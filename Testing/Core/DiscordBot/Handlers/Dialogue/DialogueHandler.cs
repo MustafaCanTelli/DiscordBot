@@ -42,7 +42,7 @@ namespace DiscordBot.Handlers.Dialogue
                         Color = DiscordColor.Green
                     };
 
-                    await _channel.SendMessageAsync(canceledEmbed).ConfigureAwait(false);
+                    await _channel.SendMessageAsync(embed:canceledEmbed).ConfigureAwait(false);
 
                     return false;
                 }

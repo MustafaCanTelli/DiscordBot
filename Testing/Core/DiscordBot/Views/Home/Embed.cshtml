@@ -1,0 +1,87 @@
+﻿@model DiscordBot.Controllers.TestEmbed
+
+@{
+    ViewData["Title"] = "Embed";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-6 mx-auto">
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Embed" asp-controller="Home" method="post">
+                <div id="formEmbed">
+                    <div class="form-group">
+                        <label>Embed Title</label>
+                        <input asp-for="Title" type="text" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Embed Description</label>
+                        <textarea asp-for="Description" class="form-control" cols="5" rows="3"></textarea>
+                    </div>
+                </div>
+
+
+                <button id="btnSend" type="submit" class="btn btn-primary">Send</button>
+                <button id="btnAddFiled" type="button" class="btn btn-success">Add Field</button>
+                <button id="btnDone" style="display: none;" type="button" class="btn btn-success">Add Field</button>
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+<script src="~/jquery/jquery.js"></script>
+<script>
+    var number = parseInt(0);
+    $('#btnAddFiled').on('click', function () {
+        $('#btnSend').hide();
+        $('#btnAddFiled').hide();
+        $('#btnDone').show();
+        number += parseInt(1);
+        var value = number.toString();
+        $('#formEmbed').append(
+            `
+                 <div id="filed">
+                    <div class="form-group">
+                     <label>Field Name</label>
+                     <textarea asp-for="EmbedFields[`+ number + `].FieldName" class="form-control" cols="5" rows="3"></textarea>
+                 </div>
+                 <div class="form-group">
+                     <label>Filed Value</label>
+                     <textarea asp-for="EmbedFields[`+ number + `].Value" class="form-control" cols="5" rows="3"></textarea>
+                 </div>
+                 <div class="form-group">
+                     <label>Açıklama</label>
+                     <select asp-for="EmbedFields[`+ number + `].InLine">
+                         <option>True </option>
+                         <option>Folse </option>
+                     </select>
+                 </div>
+
+
+                </div>
+
+
+
+            `)
+
+        $('#btnDone').on('click', function () {
+            $('#btnSend').show();
+            $('#btnAddFiled').show();
+            $('#filed').hide();
+            $('#btnDone').hide();
+
+
+            this.hide();
+
+
+        })
+    })
+
+
+
+
+
+
+</script>

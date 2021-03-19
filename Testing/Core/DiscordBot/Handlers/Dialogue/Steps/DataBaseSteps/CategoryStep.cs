@@ -71,7 +71,7 @@ namespace DiscordBot.Handlers.Dialogue.Steps.DataBaseSteps
 
             while (true)
             {
-                var embed = await channel.SendMessageAsync(embedBuilder).ConfigureAwait(false);
+                var embed = await channel.SendMessageAsync(embed:embedBuilder).ConfigureAwait(false);
 
                 OnMessageAdded(embed);
 

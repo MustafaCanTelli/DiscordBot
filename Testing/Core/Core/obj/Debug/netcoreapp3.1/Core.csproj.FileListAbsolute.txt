@@ -26,3 +26,15 @@ C:\Users\mstfc\Desktop\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.Cor
 C:\Users\mstfc\Desktop\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\mstfc\Desktop\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
 C:\Users\mstfc\Desktop\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache

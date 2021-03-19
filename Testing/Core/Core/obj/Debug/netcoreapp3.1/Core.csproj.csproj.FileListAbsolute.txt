@@ -1,0 +1,4 @@
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.csprojAssemblyReference.cache
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyInfoInputs.cache
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyInfo.cs
+C:\Users\mstfc\Documents\GitHub\DiscordBot\Testing\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.csproj.CoreCompileInputs.cache

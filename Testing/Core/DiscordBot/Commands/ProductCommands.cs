@@ -26,6 +26,13 @@ namespace DiscordBot.Commands
             _categoryService = categoryService;
         }
 
+        [Command("Embed")]
+        public async Task Embed(CommandContext ctx)
+        {
+            await ctx.Channel.SendMessageAsync(embed: DiscordBot.Controllers.HomeController.testEmbedController);
+            DiscordBot.Controllers.HomeController.testEmbedController.ClearFields();
+        }
+
 
         [Command("AddProduct")]
         public async Task AddProduct(CommandContext ctx)
@@ -69,10 +76,6 @@ namespace DiscordBot.Commands
             await _productService.AddProduct(product).ConfigureAwait(false);
 
             await ctx.Channel.SendMessageAsync($"{product.ProductName} Ürünü Oluşturuldu...").ConfigureAwait(false);
-
-
-
-
 
 
         }

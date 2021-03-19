@@ -23,6 +23,8 @@ namespace DiscordBot.Commands
         [Command("AddCategory")]
         public async Task AddCategory(CommandContext ctx)
         {
+            await ctx.Message.DeleteAsync();
+
             var categoyDescriptonStep = new TextStep("Lütfen Kategori Açıklaması Yazın", null);
 
             var categoryNameStep = new TextStep("Lütfen Kategori Adını Yazın.", categoyDescriptonStep);
